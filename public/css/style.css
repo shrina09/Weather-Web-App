@@ -1,0 +1,204 @@
+.regular {
+  background-color: #0C134F;
+}
+
+
+.search-bar {
+  border: none;
+  border-radius: 25px;
+  padding: 10px;
+  margin-right: 1%;
+  width: 60%;
+  background-color: #deecf3;
+  text-indent: 6%;
+
+}
+
+.search-btn {
+  cursor: pointer;
+  border: none;
+  height: 45px;
+  width: 45px;
+  border-radius: 50%;
+  background-color: #deedf3;
+  transition: 0.4s ease;
+}
+
+.search-btn:hover {
+  color: white;
+  background-color: #4d4d4d;
+}
+
+
+
+.form-div {
+  background-color: white;
+  margin-top: 10%;
+  margin-bottom: 5%;
+}
+
+.form-div {  
+  width: 35%;
+  border-radius: 10px;
+  padding: 10px 10px 10px 10px;
+}
+
+.location-search{
+  margin-top: 10%;
+  height: 70%;
+  width: 70%;
+  margin-right: 5%;
+}
+
+.prompt-search{
+  font-family: 'Times New Roman', Times, serif;
+  padding: 2%;
+  text-align: center;
+  margin-right: 5%;
+  color: rgb(92, 92, 92);
+
+}
+
+.search-btn i {
+  color: rgb(92, 92, 92);
+  transition: 0.4s ease;
+}
+
+.search-btn:hover i {
+  color: rgb(237, 237, 237);
+}
+
+.locationNotFound {
+  margin-top: 10%;
+  height: 60%;
+  width: 60%;
+  margin-right: 5%;
+  margin-bottom: 5%;
+}
+
+.prompt-notFound {
+  font-family: 'Times New Roman', Times, serif;
+  text-align: center;
+  margin-right: 5%;
+  color: rgb(92, 92, 92);
+}
+
+.location {
+  margin-right: 2%;
+  margin-top: 5%;
+  font-family: 'Times New Roman', Times, serif;
+  color:  #212121;
+}
+.weather-desp-img {
+  margin-top: 7%;
+  height: 50%;
+  width: 50%;
+  margin-bottom: 2%;
+}
+
+.temp-disp {
+  text-align: center;
+  color: #212121;
+}
+
+.feel-like {
+  margin-top: 0;
+  margin-left: 3%;
+  text-align: center;
+  color: #212121;
+}
+
+.weather-detail{
+  margin-right: 30%;
+  color:  #212121;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.humid{
+  color: rgb(0, 194, 220);
+}
+.visib {
+  color: rgb(244, 204, 104);
+}
+
+.windspd {
+  color: rgb(111, 161, 255);
+}
+
+.press {
+  color: rgb(75, 42, 3);
+}
+
+.weather-detail p {
+  margin-top: 2%;
+  font-size: 1.2em;
+}
+
+.humid-p {
+  margin-left: 5%;
+}
+
+.oned {
+  background: rgb(251,227,63);
+  background: radial-gradient(circle, rgba(251,227,63,1) 0%, rgba(225,239,150,1) 48%, rgba(70,196,252,1) 100%);
+}
+
+.onen{
+  background: rgb(2,0,36);
+  background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(1,1,38,1) 31%, rgba(42,40,85,1) 100%, rgba(42,40,85,1) 100%, rgba(39,37,82,1) 100%, rgba(80,75,128,1) 100%, rgba(191,180,255,1) 100%);
+}
+
+.twod {
+  background: rgb(255,251,121);
+  background: linear-gradient(90deg, rgba(255,251,121,1) 0%, rgba(0,183,209,1) 50%, rgba(28,93,138,1) 100%);
+}
+
+.twod {
+  background: rgb(36,190,238);
+  background: linear-gradient(0deg, rgba(36,190,238,1) 0%, rgba(115,202,191,1) 39%, rgba(255,224,107,1) 100%);
+}
+.fourd {
+  background: rgb(19,19,92);
+  background: linear-gradient(90deg, rgba(19,19,92,1) 0%, rgba(4,71,82,1) 53%, rgba(5,156,255,1) 100%);
+}
+
+.fourn {
+  background: rgb(7,7,13);
+  background: linear-gradient(90deg, rgba(7,7,13,1) 0%, rgba(18,37,58,1) 36%, rgba(23,53,81,1) 53%, rgba(25,58,89,1) 59%, rgba(1,80,133,1) 100%);
+}
+
+.nined {
+  background: rgb(31,144,194);
+  background: linear-gradient(0deg, rgba(31,144,194,1) 0%, rgba(111,145,156,1) 58%, rgba(148,145,138,1) 100%);
+}
+
+.ninen {
+  background: rgb(49,104,166);
+  background: linear-gradient(0deg, rgba(49,104,166,1) 0%, rgba(63,74,88,1) 48%, rgba(29,28,28,1) 100%, rgba(48,48,48,1) 100%);
+}
+
+.tend {
+  background: rgb(240,216,104);
+  background: linear-gradient(0deg, rgba(240,216,104,1) 0%, rgba(35,143,198,1) 54%, rgba(85,85,85,1) 100%);
+}
+
+.elevend {
+  background: rgb(49,104,166);
+  background: linear-gradient(0deg, rgba(49,104,166,1) 0%, rgba(63,74,88,1) 36%, rgba(71,71,71,1) 54%, rgba(38,38,38,1) 77%, rgba(48,48,48,1) 100%);
+}
+
+.elevenn{
+  background: rgb(1,44,91);
+  background: linear-gradient(0deg, rgba(1,44,91,1) 0%, rgba(47,47,47,1) 100%);
+}
+
+.fiftyd {
+  background: rgb(1,44,91);
+  background: linear-gradient(0deg, rgba(1,44,91,1) 0%, rgba(145,189,233,1) 0%, rgba(177,212,245,1) 38%, rgba(183,206,228,1) 56%, rgba(198,198,198,1) 100%);
+}
+
+.fiftyn {
+  background: rgb(1,44,91);
+  background: linear-gradient(0deg, rgba(1,44,91,1) 0%, rgba(8,45,82,1) 0%, rgba(42,63,83,1) 35%, rgba(76,80,84,1) 66%, rgba(115,115,116,1) 100%, rgba(161,163,167,1) 100%);
+}
+
