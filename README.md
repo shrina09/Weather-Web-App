@@ -6,7 +6,7 @@ This is weather web app that can gives the weather forecast of any city at the t
 ## Getting Started
 ### Dependencies
 
-* It requires Node.js installed on the machine that will run this program. It also requires a API key to acess the weather data which is not provided in the code for security purposes. There an example .env file provided called ".env_samples". Create a .env file and add the contents of the ".env_samples" file. Where it says "YOUR_API_KEY_HERE" type in the API key. To obtain the API key, sign up to OpenWeatherMap to obtain the API key.
+It requires Node.js installed on the machine that will run this program. It also requires a API key to acess the weather data which is not provided in the code for security purposes. There an example .env file provided called ".env_samples". Create a .env file and add the contents of the ".env_samples" file. Where it says "YOUR_API_KEY_HERE" type in the API key. To obtain the API key, sign up to OpenWeatherMap to obtain the API key.
 
 ### Executing program
 
