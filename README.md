@@ -20,5 +20,5 @@ http://localhost:3000/
 ```
 
 ## Author Information
-Your name: Shrina<br />
+Your name: Shrina Patel<br />
 Email: shrinapatel359@gmail.com
